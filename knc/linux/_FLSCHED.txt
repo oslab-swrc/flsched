@@ -1,0 +1,16 @@
+[ ] Control Group support  --->
+[ ] Automatic process group scheduling        
+
+[*] Automatically enable NUMA aware memory/task placement
+[*] Memory placement aware NUMA scheduler 
+
+
+
+
+
+
+[ ] Numa Memory Allocation and Scheduler Support   
+
+
+
+
