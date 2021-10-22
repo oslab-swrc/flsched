@@ -1,10 +1,10 @@
-# flsched
-Feather-Like Scheduler (FLSCHED) is a process scheduler focused on the manycore environment.
+# FLsched
+Feather-Like Scheduler (FLsched) is a process scheduler focused on the manycore environment.
 This repository contains the implementation of FLSCHED for the Intel Xeon-phi manycore system.
 
 FLSCHED is licensed under the GPLv2 license.
 
-## What is FLSCHED ##
+## What is FLsched ##
 
 The prevalence of manycore processors imposes new challenges in scheduler design.
 
