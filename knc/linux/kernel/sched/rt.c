@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: GPL-2.0
+// SPDX-FileCopyrightText: Copyright (c) 2021 Chungbuk National University
+
 // rt.c.14 - from rt.c.10 -> disable pull_rt_task
 // 20160916 final
 

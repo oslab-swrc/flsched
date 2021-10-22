@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: GPL-2.0
+// SPDX-FileCopyrightText: Copyright (c) 2021 Chungbuk National University
+
 // heesn
 // all 90 is best. fix this.
 
