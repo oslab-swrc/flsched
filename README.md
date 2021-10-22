@@ -30,7 +30,15 @@ Finally, FLSCHED is tailored to throughput-oriented workloads, which are dominan
 
 ## Getting Started ##
 
-This section will be released after the paper is published.
+The build of kernel is the same with the general Linux kernel build process.
+
+## Result ##
+
+![hb](https://user-images.githubusercontent.com/44431107/138382838-93aa7460-2e80-4c96-af12-67d31831bafe.png)
+
+## Requirement list
+
+More performance evaluation on various machines
 
 
 
